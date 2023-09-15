@@ -1,0 +1,13 @@
+body{
+    color: white;
+   background-color: black;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+	color: rebeccapurple;
+	font-size: 37px;
+	background-color: pink;
+}
